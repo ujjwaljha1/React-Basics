@@ -9,7 +9,7 @@ Welcome to React-Basics! This repository covers fundamental to advanced concepts
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). To get started, clone this repository and navigate to the project directory.
 
 ```bash
-git clone [<repository-url>](https://github.com/ujjwaljha1/React-Basics)]
+git clone https://github.com/ujjwaljha1/React-Basics
 cd React-Basics
 ```
 
