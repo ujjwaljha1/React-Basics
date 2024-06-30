@@ -1,14 +1,12 @@
 
 import './App.css';
-import Exam1 from './UseEffect/Exam1';
-
-import SingleForm from './UseState/SIngleUseStateForm';
+import Basic from './UseReduceer/Basic';
 
 
 function App() {
   return (
     <div>
-      <Exam1/>
+      <Basic/>
     </div>
   );
 }
